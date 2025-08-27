@@ -1,11 +1,8 @@
-# Fala aí! Eu sou o George Lucas 👋
-
-Bem-vindo ao meu espaço no GitHub! Sou um estudante desenvolvedor que curte transformar ideias em interfaces legais e funcionais. 🚀
+# George Lucas
 
 ## 🔍 Sobre mim
 - 💻 Focado em desenvolvimento web, especialmente no Front-end.
 - 🌱 Atualmente aprendendo HTML, CSS e JavaScript.
-- 🏓 Fun fact: sou viciado em tênis de mesa — e não é só hobby, jogo bem mesmo.
 
 ## 🛠️ Tecnologias que estou explorando
 
